@@ -1,6 +1,12 @@
 
 # **Analytics & Revenue Insights Dashboard for Pizza Sales using Tableau**
 
+Live Interactive Dashboard Link : https://public.tableau.com/app/profile/tarun.mishra7740/viz/PizzaSalesDashboard_17070774157650/Home
+
+![App Screenshot](https://github.com/tarundirector/HR-Analytics-using-PowerBI/assets/85684655/448b794e-dea6-41ae-bcfa-72ec64c56b17)
+
+![App Screenshot](https://github.com/tarundirector/HR-Analytics-using-PowerBI/assets/85684655/8e8c76a2-164b-483e-b5b8-c30649272ac9)
+
 ## **Problem Statement**:
 
 In this project, I aim to leverage the data from a pizza outlet's sales records to gain valuable insights and present them through an interactive dashboard created using Tableau. The dataset encompasses various features that provide a comprehensive view of the pizza sales dynamics.
@@ -292,8 +298,6 @@ ORDER BY Total_Orders ASC
 In crafting a comprehensive dashboard in Power BI, I followed a systematic approach to ensure accurate representation and insightful analysis. Here's an overview of the steps I took:
 
 ![App Screenshot](https://github.com/tarundirector/HR-Analytics-using-PowerBI/assets/85684655/448b794e-dea6-41ae-bcfa-72ec64c56b17)
-
-![App Screenshot](https://github.com/tarundirector/HR-Analytics-using-PowerBI/assets/85684655/8e8c76a2-164b-483e-b5b8-c30649272ac9)
 
 ### 1. Measures Addition:
 
