@@ -172,7 +172,7 @@ group by DATEPART(HOUR, order_time)
 order by DATEPART(HOUR, order_time)
 ```
 
-<img src="https://github.com/tarundirector/HR-Analytics-using-PowerBI/assets/85684655/d69c76b4-21b7-44a5-91a1-d3c80cd99a8" width="200">
+<img src="https://github.com/tarundirector/HR-Analytics-using-PowerBI/assets/85684655/b9e263d1-01c8-4503-a551-c1052f34de05" width="200">
 
 
 #### 2. Weekly Trend for Orders
