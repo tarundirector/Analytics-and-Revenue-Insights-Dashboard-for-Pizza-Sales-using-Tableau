@@ -1,5 +1,5 @@
 
-# **Analytics & Revenue Insights Dashboard for Pizza Sales using Tableau**
+# **📊 Analytics & Revenue Insights Dashboard for Pizza Sales using Tableau 🍕💡**
 
 Live Interactive Dashboard Link : https://public.tableau.com/app/profile/tarun.mishra7740/viz/PizzaSalesDashboard_17070774157650/Home
 
